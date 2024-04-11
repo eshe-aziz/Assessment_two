@@ -1,0 +1,60 @@
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+  }
+  
+  li {
+    float: left;
+    padding-left: 100px;
+  }
+  
+  li a {
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+  }
+  
+  button{
+    width: 150px;
+    background-color: #7DBCB7;
+    color: #ffffff;
+    border: none;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 5px;
+    padding: 12px;
+    border-radius: 20px;
+  }
+
+
+  .one{
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+
+  .on{
+    display: flex;
+  }
+
+  .icons{
+    display: flex;
+  }
+
+  .two{
+    background-color: #E3F0EF;
+  }
+
+  .logo{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  @media screen and (max-width: 600px){
+    
+  }
